@@ -146,18 +146,18 @@ Below are the visual differences in:
 
 ---
 
+## 📊 API Tier Comparison
 
-### 📈 Statistical Comparison
+Evaluated both free and paid Gemini API tiers. The **paid tier (Gemini 2.5 Pro)** was necessary for quality results:
 
-| Metric | Free-Tier API | Paid API | Improvement |
-|--------|--------------|----------|-------------|
-| **Entities Extracted** | ~7–12 | ~35–60 | 🔼 4–5× |
-| **Relationships** | 1–3 | 40–70 | 🔼 20–60× |
-| **People Detected in Photos** | Very few | Consistently extracted | ✔ |
-| **Place & Object Detection** | Weak | Strong | ✔ |
-| **OCR Quality** | Often incorrect | High quality | ✔ |
-| **Contextual Understanding** | Poor | Excellent | ✔ |
+| Metric | Free Tier | Paid Tier | Result |
+|--------|-----------|-----------|--------|
+| Entities/20 files | 7–12 | 47–50 | 4–5× better |
+| Relationships/20 files | 1–3 | 87–93 | 30–90× better |
+| Italian OCR | 40–60% | 85–90% | Essential |
+| Historical text (1905) | Poor | Good | Critical |
 
+Paid tier required for historical archive processing. Free tier insufficient for 1900s Italian documents and multi-photo segmentation.
 ---
 
 ### 🧠 Summary
