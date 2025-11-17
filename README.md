@@ -16,10 +16,10 @@ It builds a **Knowledge Graph** and exports:
 | Feature | Description |
 |--------|-------------|
 | **Archive Scanning** | Recursively indexes all files with categorization |
-| **Stratified Sampling** | Processes 40 representative files (covers all types) |
+| **Stratified Sampling** | Processes 20 representative files (covers all types) |
 | **Album Page Segmentation** | Splits multi-photo pages using OpenCV |
 | **OCR (Italian)** | PaddleOCR with rotation correction |
-| **Multimodal AI** | Gemini 1.5 Flash (Vision + Text) for entity extraction |
+| **Multimodal AI** | Gemini 2.5 Flash (Vision + Text) for entity extraction |
 | **Entity Deduplication** | Fuzzy matching + normalization (handles "F. Martiny" = "Francesco Martiny") |
 | **Knowledge Graph** | NetworkX + PyVis interactive HTML |
 | **Structured Export** | JSON files ready for Neo4j, GraphDB, etc. |
@@ -115,7 +115,7 @@ jupyter lab
 ```mermaid
 graph TD
     A[Scan Archive] --> B[Categorize Files]
-    B --> C[Select 40 Sample Files]
+    B --> C[Select 20 Sample Files]
     C --> D{File Type?}
     D -->|Album Page| E[OpenCV Segmentation]
     D -->|PDF/DOCX/Image| F[OCR / Text Extract]
