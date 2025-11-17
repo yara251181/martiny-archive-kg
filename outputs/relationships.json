@@ -1,0 +1,791 @@
+[
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_1",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_2",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_3",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_4",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_5",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_6",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_7",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_8",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_9",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_10",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_11",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_12",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_13",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_14",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Person_15",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_2",
+    "target_id": "Person_10",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Place_1",
+    "type": "located_at",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Place_2",
+    "type": "located_at",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Place_3",
+    "type": "located_at",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_3",
+    "target_id": "Person_16",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_3",
+    "target_id": "Person_10",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_3",
+    "target_id": "Person_17",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_3",
+    "target_id": "Person_18",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_3",
+    "target_id": "Company_1",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_4",
+    "target_id": "Person_19",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_4",
+    "target_id": "Person_20",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_4",
+    "target_id": "Company_2",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_4",
+    "target_id": "Company_3",
+    "type": "mentions",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Person_21",
+    "target_id": "Document_8",
+    "type": "appears_in",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_5",
+    "target_id": "Place_1",
+    "type": "located_at",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_5",
+    "target_id": "Place_4",
+    "type": "located_at",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_9",
+    "target_id": "Place_1",
+    "type": "located_at",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_10",
+    "target_id": "Place_1",
+    "type": "located_at",
+    "properties": {},
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Document_2",
+    "type": "shares_person",
+    "properties": {
+      "person_ids": [
+        "Person_10"
+      ],
+      "reason": "Both mention Francesco Martiny"
+    },
+    "confidence": 0.92
+  },
+  {
+    "source_id": "Document_1",
+    "target_id": "Document_3",
+    "type": "shares_person",
+    "properties": {
+      "person_ids": [
+        "Person_10"
+      ],
+      "reason": "Both mention Francesco Martiny"
+    },
+    "confidence": 0.92
+  },
+  {
+    "source_id": "Document_2",
+    "target_id": "Document_3",
+    "type": "shares_person",
+    "properties": {
+      "person_ids": [
+        "Person_10"
+      ],
+      "reason": "Both mention Francesco Martiny"
+    },
+    "confidence": 0.92
+  },
+  {
+    "source_id": "Photo_1",
+    "target_id": "Photo_2",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_1",
+    "target_id": "Photo_3",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_1",
+    "target_id": "Photo_4",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_1",
+    "target_id": "Photo_5",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_1",
+    "target_id": "Photo_6",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_1",
+    "target_id": "Photo_7",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_1",
+    "target_id": "Photo_8",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_1",
+    "target_id": "Photo_9",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_1",
+    "target_id": "Photo_10",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_2",
+    "target_id": "Photo_3",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_2",
+    "target_id": "Photo_4",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_2",
+    "target_id": "Photo_5",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_2",
+    "target_id": "Photo_6",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_2",
+    "target_id": "Photo_7",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_2",
+    "target_id": "Photo_8",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_2",
+    "target_id": "Photo_9",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_2",
+    "target_id": "Photo_10",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Photo_4",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Photo_5",
+    "type": "shares_place",
+    "properties": {
+      "place_ids": [
+        "Place_1"
+      ],
+      "reason": "Both reference Turin"
+    },
+    "confidence": 0.88
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Photo_5",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Photo_6",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Photo_7",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Photo_8",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Photo_9",
+    "type": "shares_place",
+    "properties": {
+      "place_ids": [
+        "Place_1"
+      ],
+      "reason": "Both reference Turin"
+    },
+    "confidence": 0.88
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Photo_9",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Photo_10",
+    "type": "shares_place",
+    "properties": {
+      "place_ids": [
+        "Place_1"
+      ],
+      "reason": "Both reference Turin"
+    },
+    "confidence": 0.88
+  },
+  {
+    "source_id": "Photo_3",
+    "target_id": "Photo_10",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_4",
+    "target_id": "Photo_5",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_4",
+    "target_id": "Photo_6",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_4",
+    "target_id": "Photo_7",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_4",
+    "target_id": "Photo_8",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_4",
+    "target_id": "Photo_9",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_4",
+    "target_id": "Photo_10",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_5",
+    "target_id": "Photo_6",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_5",
+    "target_id": "Photo_7",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_5",
+    "target_id": "Photo_8",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_5",
+    "target_id": "Photo_9",
+    "type": "shares_place",
+    "properties": {
+      "place_ids": [
+        "Place_1"
+      ],
+      "reason": "Both reference Turin"
+    },
+    "confidence": 0.88
+  },
+  {
+    "source_id": "Photo_5",
+    "target_id": "Photo_9",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_5",
+    "target_id": "Photo_10",
+    "type": "shares_place",
+    "properties": {
+      "place_ids": [
+        "Place_1"
+      ],
+      "reason": "Both reference Turin"
+    },
+    "confidence": 0.88
+  },
+  {
+    "source_id": "Photo_5",
+    "target_id": "Photo_10",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_6",
+    "target_id": "Photo_7",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_6",
+    "target_id": "Photo_8",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_6",
+    "target_id": "Photo_9",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_6",
+    "target_id": "Photo_10",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_7",
+    "target_id": "Photo_8",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_7",
+    "target_id": "Photo_9",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_7",
+    "target_id": "Photo_10",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_8",
+    "target_id": "Photo_9",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_8",
+    "target_id": "Photo_10",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  },
+  {
+    "source_id": "Photo_9",
+    "target_id": "Photo_10",
+    "type": "shares_place",
+    "properties": {
+      "place_ids": [
+        "Place_1"
+      ],
+      "reason": "Both reference Turin"
+    },
+    "confidence": 0.88
+  },
+  {
+    "source_id": "Photo_9",
+    "target_id": "Photo_10",
+    "type": "same_album",
+    "properties": {
+      "album_id": "Album A",
+      "reason": "Both from Album A"
+    },
+    "confidence": 1.0
+  }
+]

@@ -1,0 +1,491 @@
+[
+  {
+    "id": "Document_1",
+    "type": "Document",
+    "name": "2025 - 10 - 17 alberi geneologici famiglia Martiny",
+    "properties": {
+      "category": "genealogy",
+      "file_type": ".pdf"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_1",
+    "type": "Person",
+    "name": "Giovanni Martiny",
+    "properties": {
+      "role": "family member"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_2",
+    "type": "Person",
+    "name": "Johann",
+    "properties": {
+      "role": "family member"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_3",
+    "type": "Person",
+    "name": "Alwine",
+    "properties": {
+      "role": "family member"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_4",
+    "type": "Person",
+    "name": "Ludovico",
+    "properties": {
+      "role": "family member"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_5",
+    "type": "Person",
+    "name": "Heinrich",
+    "properties": {
+      "role": "family member"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_6",
+    "type": "Person",
+    "name": "Elisabeth Martiny",
+    "properties": {
+      "role": "family member"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_7",
+    "type": "Person",
+    "name": "Ernst Willeke",
+    "properties": {
+      "role": "family member"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_8",
+    "type": "Person",
+    "name": "Masche",
+    "properties": {
+      "role": "family member"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_9",
+    "type": "Person",
+    "name": "Roberto Collasius",
+    "properties": {
+      "role": "family member"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_10",
+    "type": "Person",
+    "name": "Francesco Martiny",
+    "properties": {
+      "role": "family member"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_11",
+    "type": "Person",
+    "name": "Clara Collasius",
+    "properties": {
+      "role": "family member"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_12",
+    "type": "Person",
+    "name": "Walter Martiny",
+    "properties": {
+      "role": "child"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_13",
+    "type": "Person",
+    "name": "Ernesto Martiny",
+    "properties": {
+      "role": "child"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_14",
+    "type": "Person",
+    "name": "Frida Martiny",
+    "properties": {
+      "role": "child"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_15",
+    "type": "Person",
+    "name": "Luigi Martiny",
+    "properties": {
+      "role": "child"
+    },
+    "source_file": "FILE_1",
+    "confidence": 1.0
+  },
+  {
+    "id": "Document_2",
+    "type": "Document",
+    "name": "2025 - 10 - 20 Tag album giovani musicisti Martiny(1)",
+    "properties": {
+      "category": "client_tags",
+      "file_type": ".docx"
+    },
+    "source_file": "FILE_2",
+    "confidence": 1.0
+  },
+  {
+    "id": "Photo_1",
+    "type": "Photo",
+    "name": "Album A_000",
+    "properties": {
+      "category": "album_page",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_4",
+    "confidence": 1.0
+  },
+  {
+    "id": "Photo_2",
+    "type": "Photo",
+    "name": "Album A_001",
+    "properties": {
+      "category": "album_page",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_5",
+    "confidence": 1.0
+  },
+  {
+    "id": "Photo_3",
+    "type": "Photo",
+    "name": "Album A_006",
+    "properties": {
+      "category": "album_page",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_6",
+    "confidence": 1.0
+  },
+  {
+    "id": "Place_1",
+    "type": "Place",
+    "name": "Turin",
+    "properties": {
+      "type": "city"
+    },
+    "source_file": "FILE_6",
+    "confidence": 1.0
+  },
+  {
+    "id": "Place_2",
+    "type": "Place",
+    "name": "Walter Martiny Industria Gomma",
+    "properties": {
+      "type": "building"
+    },
+    "source_file": "FILE_6",
+    "confidence": 1.0
+  },
+  {
+    "id": "Place_3",
+    "type": "Place",
+    "name": "Società Anonima Walter Martiny Industria Gomma",
+    "properties": {
+      "type": "building"
+    },
+    "source_file": "FILE_6",
+    "confidence": 1.0
+  },
+  {
+    "id": "Photo_4",
+    "type": "Photo",
+    "name": "Album A_014",
+    "properties": {
+      "category": "album_page",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_7",
+    "confidence": 1.0
+  },
+  {
+    "id": "Document_3",
+    "type": "Document",
+    "name": "2025 - 10 - 17 articolo di giornalista conoscente di Roberto sulla famiglia Martiny",
+    "properties": {
+      "category": "newspaper",
+      "file_type": ".pdf"
+    },
+    "source_file": "FILE_8",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_16",
+    "type": "Person",
+    "name": "Roberto",
+    "properties": {
+      "role": "acquaintance of the journalist"
+    },
+    "source_file": "FILE_8",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_17",
+    "type": "Person",
+    "name": "Edoardo Bender",
+    "properties": {
+      "role": "Business partner of Francesco Martiny"
+    },
+    "source_file": "FILE_8",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_18",
+    "type": "Person",
+    "name": "Charles Goodyear",
+    "properties": {
+      "role": "Inventor"
+    },
+    "source_file": "FILE_8",
+    "confidence": 1.0
+  },
+  {
+    "id": "Company_1",
+    "type": "Company",
+    "name": "Bender e Martiny",
+    "properties": {
+      "type": "Asbestos and rubber products"
+    },
+    "source_file": "FILE_8",
+    "confidence": 1.0
+  },
+  {
+    "id": "Document_4",
+    "type": "Document",
+    "name": "1154_01_1929_0059_0005",
+    "properties": {
+      "category": "newspaper",
+      "file_type": ".pdf"
+    },
+    "source_file": "FILE_9",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_19",
+    "type": "Person",
+    "name": "Italo Balbo",
+    "properties": {
+      "role": "S.E. (Sua Eccellenza)"
+    },
+    "source_file": "FILE_9",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_20",
+    "type": "Person",
+    "name": "Ministro dell'Aviazione francese",
+    "properties": {
+      "role": "French Minister of Aviation"
+    },
+    "source_file": "FILE_9",
+    "confidence": 1.0
+  },
+  {
+    "id": "Company_2",
+    "type": "Company",
+    "name": "LA STAMPA",
+    "properties": {
+      "type": "Newspaper"
+    },
+    "source_file": "FILE_9",
+    "confidence": 1.0
+  },
+  {
+    "id": "Company_3",
+    "type": "Company",
+    "name": "PHILIPS",
+    "properties": {
+      "type": "Electronics"
+    },
+    "source_file": "FILE_9",
+    "confidence": 1.0
+  },
+  {
+    "id": "Document_5",
+    "type": "Document",
+    "name": "Handelshochschule_diploma",
+    "properties": {
+      "category": "document",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_10",
+    "confidence": 1.0
+  },
+  {
+    "id": "Document_6",
+    "type": "Document",
+    "name": "Handelshochschule_pag1-4",
+    "properties": {
+      "category": "document",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_11",
+    "confidence": 1.0
+  },
+  {
+    "id": "Document_7",
+    "type": "Document",
+    "name": "2025-10-20 TAG FOTO SINGOLE",
+    "properties": {
+      "category": "single_photo",
+      "file_type": ".docx"
+    },
+    "source_file": "FILE_12",
+    "confidence": 1.0
+  },
+  {
+    "id": "Document_8",
+    "type": "Document",
+    "name": "IMG_8959",
+    "properties": {
+      "category": "single_photo",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_12",
+    "confidence": 1.0
+  },
+  {
+    "id": "Person_21",
+    "type": "Person",
+    "name": "Woman",
+    "properties": {
+      "description": "Appears to be a young woman with dark hair, styled in a bob, wearing a light-colored, possibly satin or silk, dress with short sleeves and some detailing on the bodice. She is holding a small bouquet of roses and is seated sideways, looking towards the camera."
+    },
+    "source_file": "FILE_12",
+    "confidence": 1.0
+  },
+  {
+    "id": "Document_9",
+    "type": "Document",
+    "name": "Ami Guarn_000",
+    "properties": {
+      "category": "commercial",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_13",
+    "confidence": 1.0
+  },
+  {
+    "id": "Photo_5",
+    "type": "Photo",
+    "name": "Album A_017",
+    "properties": {
+      "category": "album_page",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_14",
+    "confidence": 1.0
+  },
+  {
+    "id": "Place_4",
+    "type": "Place",
+    "name": "Workshop or factory interior",
+    "properties": {
+      "type": "building"
+    },
+    "source_file": "FILE_14",
+    "confidence": 1.0
+  },
+  {
+    "id": "Photo_6",
+    "type": "Photo",
+    "name": "Album A_021",
+    "properties": {
+      "category": "album_page",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_15",
+    "confidence": 1.0
+  },
+  {
+    "id": "Photo_7",
+    "type": "Photo",
+    "name": "Album A_023",
+    "properties": {
+      "category": "album_page",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_16",
+    "confidence": 1.0
+  },
+  {
+    "id": "Photo_8",
+    "type": "Photo",
+    "name": "Album A_024",
+    "properties": {
+      "category": "album_page",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_17",
+    "confidence": 1.0
+  },
+  {
+    "id": "Photo_9",
+    "type": "Photo",
+    "name": "Album A_038",
+    "properties": {
+      "category": "album_page",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_18",
+    "confidence": 1.0
+  },
+  {
+    "id": "Photo_10",
+    "type": "Photo",
+    "name": "Album A_041",
+    "properties": {
+      "category": "album_page",
+      "file_type": ".JPG"
+    },
+    "source_file": "FILE_19",
+    "confidence": 1.0
+  }
+]
