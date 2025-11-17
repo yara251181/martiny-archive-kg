@@ -131,21 +131,6 @@ graph TD
 ```
 
 
-## 🔍 Free-Tier vs Paid Gemini API – Output Comparison
-
-To demonstrate the difference between the **Free-Tier Gemini API** and the **Paid Gemini API**,  
-I processed the **same 40-file subset** using both models and captured the results.
-
-Below are the visual differences in:
-
-- Number of extracted entities  
-- Number of relationships  
-- Accuracy of detected people/places  
-- Graph richness  
-- OCR + multimodal understanding quality  
-
----
-
 ## 📊 API Tier Comparison
 
 Evaluated both free and paid Gemini API tiers. The **paid tier (Gemini 2.5 Pro)** was necessary for quality results:
