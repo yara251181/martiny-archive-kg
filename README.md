@@ -146,28 +146,6 @@ Below are the visual differences in:
 
 ---
 
-### 📸 Visual Comparison (Side-by-Side)
-
-<table>
-  <tr>
-    <th style="text-align:center;">Free-Tier Gemini API Output</th>
-    <th style="text-align:center;">Paid Gemini API Output</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github.com/yara251181/martiny_archive_kg/blob/fea1b1071514ecd6e138f687ada46229f822eda4/output_with_demo_API/Screenshot%20(30).png" width="400"/>
-    </td>
-    <td>
-      <img src="https://github.com/yara251181/martiny_archive_kg/blob/fea1b1071514ecd6e138f687ada46229f822eda4/output_with_Gemini_API/Screenshot%20(29).png" width="400"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><i>Free-tier graph (fewer nodes/edges)</i></td>
-    <td align="center"><i>Paid model graph (denser and more accurate)</i></td>
-  </tr>
-</table>
-
----
 
 ### 📈 Statistical Comparison
 
